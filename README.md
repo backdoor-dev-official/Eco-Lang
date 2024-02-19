@@ -4,6 +4,10 @@ Welcome to Eco-Lang, the home of the Eco language!
 
 Eco is a simple, human-friendly language designed for data serialization. With Eco, you can define structured data effortlessly, making it easy to store and manage information in your applications.
 
+## Roadmap
+
+- [ ] Translator from Eco to JSON and vice versa
+
 ## Features
 
 - **Simplicity**: Eco aims to be easy to learn and use, with a minimalistic syntax.
