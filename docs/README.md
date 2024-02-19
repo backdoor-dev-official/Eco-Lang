@@ -1,5 +1,6 @@
 # Eco Documentation
-
+> [!IMPORTANT]  
+> I forgot to say about the file extension of files in eco-lang is ".eco". Thanks for your time.
 Welcome to the documentation for Eco, a language designed for human-friendly data serialization.
 
 ## Defining Data Structures
