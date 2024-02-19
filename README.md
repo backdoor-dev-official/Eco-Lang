@@ -50,6 +50,10 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 If you have any questions or suggestions, feel free to reach out to put it in issues or in the next discord server what will to be out in the next week.
 
 Happy coding with Eco!
+## Repobeat
+
+![Alt](https://repobeats.axiom.co/api/embed/c846814ca724f986ef21978a4ece732c73c47ec3.svg "Repobeats analytics image")
+
 ## Star History
 
 <a href="https://star-history.com/#backdoor-dev-official/Eco-Lang&Timeline">
@@ -59,5 +63,3 @@ Happy coding with Eco!
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=backdoor-dev-official/Eco-Lang&type=Timeline" />
   </picture>
 </a>
-## Repobeat
-![Alt](https://repobeats.axiom.co/api/embed/c846814ca724f986ef21978a4ece732c73c47ec3.svg "Repobeats analytics image")
